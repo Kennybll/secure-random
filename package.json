@@ -23,6 +23,9 @@
     "terst": "^0.1.0",
     "mochify": "^0.9.3"
   },
+  "dependencies": {
+    "react-native-crypto": "^2.1.2"
+  },
   "dependencies": {},
   "browser": {
     "crypto": false
